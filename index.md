@@ -118,4 +118,4 @@ When we change this policy, we update the date at the top, and we let schools kn
 
 ## Contact
 
-Moyazi Technologies, mbuyaziwandile03@gmail.com
+Moyazi Technologies, moyazitechnologies@gmail.com
