@@ -87,7 +87,7 @@ Under POPIA you can ask to see the personal information we hold about you, have 
 - Change your name and photo in the app, under **Settings**.
 - Delete your account in the app (see below).
 - For school records, such as a learner's marks or details, ask your school, which decides what's kept.
-- For anything else, email us at mbuyaziwandile03@gmail.com.
+- For anything else, email us at moyazitechnologies@gmail.com.
 
 If you're unhappy with how your information has been handled, you can complain to the Information Regulator: [inforegulator.org.za](https://inforegulator.org.za).
 
@@ -95,7 +95,7 @@ If you're unhappy with how your information has been handled, you can complain t
 
 In the app, open **Settings → Delete account** and type DELETE to confirm. Your account is deleted straight away.
 
-If you no longer have the app, email mbuyaziwandile03@gmail.com with the phone number of the account. We'll delete it once we've confirmed the account is yours.
+If you no longer have the app, email moyazitechnologies@gmail.com with the phone number of the account. We'll delete it once we've confirmed the account is yours.
 
 **Deleted:** your sign-in, profile and photo, your links to your children's records, your feed comments, likes and follows, and your place in your school's staff list.
 
