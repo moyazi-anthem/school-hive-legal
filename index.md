@@ -8,8 +8,7 @@ School Hive is an app that connects a school with its staff and with learners' p
 
 School Hive is made by **LOCTECH, trading as Moyazi Technologies** (registration number K2026084980), 71 Mdakane Avenue, Umlazi, Durban, KwaZulu-Natal, 4066.
 
-Information Officer: Wandile Mbuyazi
-Email: mbuyaziwandile03@gmail.com
+Information Officer: Wandile Mbuyazi, [mbuyaziwandile03@gmail.com](mailto:mbuyaziwandile03@gmail.com)
 
 **Our role.** Your school decides which school records it keeps about learners, parents and staff, and is responsible for them under POPIA. We process those records for the school, as its operator, and only to run School Hive for that school. For your School Hive account itself and for the public feed, we are responsible.
 
@@ -72,7 +71,14 @@ We never sell or rent personal information, never use it for advertising, and us
 
 ## Where it's stored
 
-School Hive's database is in South Africa (Google Cloud, Johannesburg). Files such as photos and attachments, error reports, and some of the processing are on Google's servers in the United States. Huawei may deliver notifications to Huawei phones from outside South Africa. These providers are bound by data processing terms that protect personal information as POPIA requires for information sent outside South Africa (section 72).
+School Hive's database is in South Africa (Google Cloud, Johannesburg). Some information is on Google's servers in the United States:
+
+- Photos and attachments
+- Each chat's delivered and read status, with a short preview of its latest message
+- Error reports
+- Some of the processing
+
+Huawei may deliver notifications to Huawei phones from outside South Africa. These providers are bound by data processing terms that protect personal information as POPIA requires for information sent outside South Africa (section 72).
 
 ## How long we keep it
 
@@ -87,15 +93,15 @@ Under POPIA you can ask to see the personal information we hold about you, have 
 - Change your name and photo in the app, under **Settings**.
 - Delete your account in the app (see below).
 - For school records, such as a learner's marks or details, ask your school, which decides what's kept.
-- For anything else, email us at moyazitechnologies@gmail.com.
+- For anything else, email us at [moyazitechnologies@gmail.com](mailto:moyazitechnologies@gmail.com).
 
 If you're unhappy with how your information has been handled, you can complain to the Information Regulator: [inforegulator.org.za](https://inforegulator.org.za).
 
 ## Deleting your account
 
-In the app, open **Settings → Delete account** and type DELETE to confirm. Your account is deleted straight away.
+In the app (version 1.1.13 or later), open **Settings → Delete account** and type DELETE to confirm. Your account is deleted straight away.
 
-If you no longer have the app, email moyazitechnologies@gmail.com with the phone number of the account. We'll delete it once we've confirmed the account is yours.
+If you no longer have the app, email [moyazitechnologies@gmail.com](mailto:moyazitechnologies@gmail.com) with the phone number of the account. We'll delete it once we've confirmed the account is yours.
 
 **Deleted:** your sign-in, profile and photo, your links to your children's records, your feed comments, likes and follows, and your place in your school's staff list.
 
@@ -118,4 +124,4 @@ When we change this policy, we update the date at the top, and we let schools kn
 
 ## Contact
 
-Moyazi Technologies, moyazitechnologies@gmail.com
+Moyazi Technologies, [moyazitechnologies@gmail.com](mailto:moyazitechnologies@gmail.com)
